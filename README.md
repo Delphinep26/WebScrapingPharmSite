@@ -12,9 +12,9 @@
 - Sqlalchemy for loading scraped data.
 
 *Data Analysis:*
-- Pandas to extract the data from SQLite DB and analyse data.
+- Pandas to extract the data from **SQLite** DB and analyse data.
 - Matplotlib for visualizations.
-- -googletrans for translating hebrew to english.
+- googletrans for translating hebrew to english.
 
 **Data Modeling:**
 
